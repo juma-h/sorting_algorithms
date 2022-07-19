@@ -41,4 +41,6 @@ void quickSort(int *array, int beg, int end, int size);
 /* 100-shell_sort.c */
 void shell_sort(int *array, size_t size);
 
+/* 107-quick_sort_hoare.c */
+void quick_sort_hoare(int *array, size_t size);
 #endif
